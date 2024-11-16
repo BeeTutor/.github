@@ -1,6 +1,4 @@
 <div align="center">
-<h1>BeeTutor</h1>
-
 <img src="../assets/theme.png" width="50%" height="50%"></img>
 </div>
 
