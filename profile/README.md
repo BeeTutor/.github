@@ -52,12 +52,12 @@ To address these challenges, we have built an incentive-driven ecosystem designe
     - Zircuit Testnet
 
 # How we do it?
-First, our users can log in using (**Web3Auth**). After completing their registration, they can claim their Airdrop with a one-time (**World**) verification.
+First, our users can log in using **Web3Auth**. After completing their registration, they can claim their Airdrop with a one-time **World** verification.
 
 As sharers, they have the ability to create courses or create badges, and wait for seekers to place bids on their offerings.
 
 On the other hand, as seekers, users can bid on specific sets of badges. Once a seeker wins a bid, they will receive a unique NFT, granting them the right to join a group chat with the sharer.
 
-After winning the bid, seekers can access the group chat through the (**Push Protocol**), with inclusive NFT as entry criteria. In this group chat, they can communicate with the sharer via text messages, video calls, or audio calls, enabling a rich and interactive learning experience.
+After winning the bid, seekers can access the group chat through the **Push Protocol**, with inclusive NFT as entry criteria. In this group chat, they can communicate with the sharer via text messages, video calls, or audio calls, enabling a rich and interactive learning experience.
 
 <img src="../assets/incentive-ecosystem.png" width="100%" height="50%"></img>
